@@ -14,8 +14,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Whatsapp',
       theme: ThemeData(
-        primaryColor: new Color(0xff075E54),
-        accentColor: new Color(0xff25D366),
+        primaryColor: Color(0xff075E54),
+        accentColor: Color(0xff25D366),
 
         tabBarTheme: TabBarTheme(
           labelColor: Colors.white
